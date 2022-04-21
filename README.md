@@ -1,4 +1,4 @@
-## 1. ATM - Automated Teller Machine coded in Java. 
+## ATM - Automated Teller Machine coded in Java. 
 
 1. Log in
 2. View account information
